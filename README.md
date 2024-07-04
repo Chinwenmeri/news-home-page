@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/Chinwenmeri/news-home-page/tree/main
+- Solution URL: https://www.frontendmentor.io/profile/Chinwenmeri/solutions
 - Live Site URL: https://news-home-page-ochre.vercel.app/
 
 ## My process
@@ -36,8 +36,6 @@ Also in implementing the core html structure I learnt how to better arrange elem
 
 
 ## Author
-
-- Website - https://news-home-page-ochre.vercel.app/
 - Frontend Mentor - [@Chinwenmeri](https://www.frontendmentor.io/profile/Chinwenmeri)
 - Twitter - [@Chinwenmeri3](https://x.com/Chinwenmeri3)
 
