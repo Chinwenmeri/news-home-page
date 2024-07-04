@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/Chinwenmeri/news-home-page/tree/main
 - Live Site URL: https://news-home-page-ochre.vercel.app/
 
 ## My process
@@ -37,7 +37,7 @@ Also in implementing the core html structure I learnt how to better arrange elem
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - https://news-home-page-ochre.vercel.app/
 - Frontend Mentor - [@Chinwenmeri](https://www.frontendmentor.io/profile/Chinwenmeri)
 - Twitter - [@Chinwenmeri3](https://x.com/Chinwenmeri3)
 
